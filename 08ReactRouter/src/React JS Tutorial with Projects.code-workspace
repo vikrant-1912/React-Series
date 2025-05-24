@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "React-first",
+			"path": "../../React-first"
+		}
+	],
+	"settings": {}
+}
