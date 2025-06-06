@@ -33,7 +33,7 @@ export default function Footer() {
                             </ul>
                         </div>
                         <div>
-                            <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">Follow us</h2>
+                            <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase">Follow Me</h2>
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
@@ -47,8 +47,12 @@ export default function Footer() {
                                 </li>
                                 <li>
                                     <Link to="/" className="hover:underline">
-                                        Discord
+                            
+                                       {/* Linkedin       */}
                                     </Link>
+                                    <a href="https://www.linkedin.com/in/vikrant1912" >
+                                    Linkedin
+                                    </a>
                                 </li>
                             </ul>
                         </div>
@@ -73,8 +77,7 @@ export default function Footer() {
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
                         © 2025
-                        
-                        <a href="https://hiteshchoudhary.com/" className="hover:underline">
+                        <a  href="https://www.linkedin.com/in/vikrant1912" className="hover:underline" >
                             Vikrant-khatana
                         </a>
                         . All Rights Reserved.
