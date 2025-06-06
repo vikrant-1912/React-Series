@@ -16,9 +16,9 @@ export default function Home() {
   
                         <Link
                             className="inline-flex text-white items-center px-6 py-3 font-medium bg-yellow-700 rounded-lg hover:opacity-75"
-                            to="/Resume.pdf" 
-  target="_blank" 
-  download={"Vikrant-Resume.pdf"}
+                            to="/Vikrant_Resume.pdf" 
+  target="_blank"
+  download={"Vikrant_Resume.pdf"}
   rel="noopener noreferrer"            //     for Security Best Practices , we add this "rel = noopener noreferrer"     //
 >  
                             <svg
