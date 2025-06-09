@@ -4,11 +4,11 @@ bash   <br>
 Copy   <br>
 Edit    <br>
 src/    <br> 
- ├── components/         # Reusable components (Navbar, Footer, etc.)
- ├── pages/              # Page components for routes
- ├── assets/             # Images, icons, styles
- ├── App.jsx             # Main app component with routing setup
- ├── index.js            # Entry point
+ ├── components/         # Reusable components (Navbar, Footer, etc.)   <br>
+ ├── pages/              # Page components for routes    <br>
+ ├── assets/             # Images, icons, styles      <br>   
+ ├── App.jsx             # Main app component with routing setup     <br>
+ ├── index.js            # Entry point    <br>
 
 
 
