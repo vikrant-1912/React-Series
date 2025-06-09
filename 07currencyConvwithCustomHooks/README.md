@@ -1,12 +1,74 @@
-# React + Vite
+# 💱 Currency Converter with Custom Hooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and efficient **Currency Converter** built in **React** using custom hooks to manage state and fetch real-time exchange rates.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+To be added soooooooon
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technology Stack
+
+- React.js (Functional Components & Hooks)  
+- Custom React Hooks for state & API management  
+- Tailwind CSS for styling  
+- Real-time currency exchange API (e.g., exchangerate-api.com, openexchangerates.org)  
+- Vercel for deployment ( Soooon )
+
+## ⚙️ Features
+
+- 🔄 Convert between multiple currencies instantly  
+- 🎯 Real-time exchange rates fetched from a public API  
+- 📊 Clean UI with responsive design  
+- 🪝 Custom React Hooks for reusability and cleaner code  
+- 💡 Error handling for network issues or invalid inputs
+
+---
+
+## 🛠️ Installation & Setup
+
+Clone the repo and install dependencies:
+
+🧩 How It Works
+Custom Hook: useCurrencyConverter handles fetching exchange rates, converting amounts, and managing loading/error states.
+
+User selects source and target currencies and enters the amount.
+
+The app fetches the latest rates and displays the converted amount instantly.
+
+
+💡 What I Learned
+Creating reusable custom hooks in React
+
+Handling async API calls and side effects with useEffect
+
+Managing component state elegantly with useState
+
+Best practices for separation of concerns in React apps
+
+Deploying React apps on Vercel
+
+📬 Connect With Me
+📧 vikrantkhatana15@gmail.com
+
+🐙 GitHub
+
+💼 LinkedIn
+
+📸 Instagram
+
+📃 License
+This project is licensed under the MIT License.
+
+Made with ❤️ by Vikrant Khatana
+
+
+```bash
+
+git clone https://github.com/vikrant-1912/React-Series/tree/07currencyConvwithCustomHooks
+cd currency-converter
+npm install
+npm start
+
+
