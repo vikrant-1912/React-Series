@@ -1,12 +1,45 @@
-# React + Vite
+# 🔐 Random Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and secure **Random Password Generator** built with **React** and **Tailwind CSS**, utilizing custom hooks for clean, reusable code. Perfect for generating strong passwords with just a click!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎉 Live Demo
 
-## Expanding the ESLint configuration
+Try it out ( Soooon ) 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## ⚙️ Features
+
+- 🔄 Generate strong, random passwords instantly  
+- 🎛️ Customizable password length and character types (uppercase, lowercase, numbers, symbols)  
+- 🎨 Responsive and modern UI styled with Tailwind CSS  
+- 🪝 Built with React functional components and custom hooks for state management  
+- 📋 Copy password to clipboard with a single click  
+- 🛡️ Secure and fast password creation
+
+---
+
+## 🛠️ Technology Stack
+
+- React.js (Hooks & Functional Components)  
+- Tailwind CSS for styling  
+- Custom React Hook for password logic  
+- Clipboard API for easy copy functionality  
+- Vercel for deployment
+
+---
+
+## 🚀 Installation & Setup
+
+Clone the repo and start the project locally:
+
+```bash
+
+git clone https://github.com/vikrant-1912/React-Series/tree/02026fd221d5e47ef37905e44b96c1be48336cf3/06passgeneratorbyHooks
+cd random-password-generator
+npm install
+npm start
+
