@@ -1,4 +1,5 @@
-📂 Project Structure
+📂 Project Structure  <br> 
+
 bash
 Copy
 Edit
@@ -8,6 +9,8 @@ src/
  ├── assets/             # Images, icons, styles
  ├── App.jsx             # Main app component with routing setup
  ├── index.js            # Entry point
+
+
 
 # 🌟 Portfolio SPA with REACT - ROUTER ( ADVANCED REACT TECH )
 
@@ -59,11 +62,10 @@ Deploying React SPA on Vercel with custom domain
 📬 Connect With Me
 📧 vikrantkhatana15@gmail.com
 
-🐙 GitHub
+                                     AND 
 
-💼 LinkedIn
+                                     
 
-📸 Instagram
 
 📃 License
 This project is open-source under the MIT License.
