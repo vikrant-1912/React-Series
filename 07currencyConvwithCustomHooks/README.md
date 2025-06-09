@@ -65,6 +65,7 @@ Made with ❤️ by Vikrant Khatana
 
 
 ```bash
+Git Permalink :
 
 git clone https://github.com/vikrant-1912/React-Series/tree/07currencyConvwithCustomHooks
 cd currency-converter
