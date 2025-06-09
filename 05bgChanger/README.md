@@ -62,6 +62,8 @@ Created with ❤️ by Vikrant Khatana — Bringing colors to life with React & 
 Clone the repo and run locally:
 
 ```bash
+Git permalink :
+
 git clone https://github.com/vikrant-1912/React-Series/tree/8f169394663b1b0b3bcc5ff7d9536049d9f13cd0/05bgChanger
 cd bg-changer
 npm install
