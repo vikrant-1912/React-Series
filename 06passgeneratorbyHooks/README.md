@@ -32,6 +32,34 @@ Try it out ( Soooon )
 
 ---
 
+🔍 How It Works
+The custom hook usePasswordGenerator handles all password generation logic and state.
+
+Users select preferences like length and character sets.
+
+On clicking Generate, a new password is created and displayed instantly.
+
+Copy button copies the password to clipboard with feedback.
+
+
+💡 What I Learned
+Building reusable custom hooks in React
+
+Managing component state and side effects elegantly
+
+Tailwind CSS utility classes for rapid UI development
+
+Using Clipboard API for better user experience
+
+Deploying React apps with Vercel
+
+📃 License
+This project is licensed under the MIT License.
+
+
+Made with ❤️ by Vikrant Khatana – A passionate fresher stepping into the world of Web Development 🚀
+
+
 ## 🚀 Installation & Setup
 
 Clone the repo and start the project locally:
