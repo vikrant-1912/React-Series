@@ -1,4 +1,4 @@
-# ⚛️ Vite + React Mini Project
+# ⚛️ Vite + React Mini Project  #1
 
 A tiny playground that shows **three ways to create React elements**—  
 1. a plain JavaScript object,  
