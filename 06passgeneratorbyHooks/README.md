@@ -28,7 +28,7 @@ Try it out ( Soooon )
 - Tailwind CSS for styling  
 - Custom React Hook for password logic  
 - Clipboard API for easy copy functionality  
-- Vercel for deployment
+- Vercel for deployment   ( Soooon )
 
 ---
 
