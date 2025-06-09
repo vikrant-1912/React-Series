@@ -71,7 +71,7 @@ This project is licensed under the MIT License.
 
      
 7. [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) Gmail](mailto:vikrantkhatana15@gmail.com)
-8.   
+    
 
 
 
