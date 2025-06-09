@@ -1,4 +1,4 @@
-# ☕ Coffee Card Component
+# ☕ Coffee Card Component     Mini-Project  #4 
 
 A sleek and reusable React component showcasing a coffee card, built with **React** and styled using **Tailwind CSS**. Demonstrates the power of props for dynamic content!
 
@@ -46,6 +46,19 @@ Styling components effectively with Tailwind CSS classes
 This project is licensed under the MIT License.
 
 
+## 📬 Reach Out to Me
+
+1. [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) GitHub](https://github.com/vikrant-1912)
+
+   
+3. [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/vikrant1912)
+
+   
+5. [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) Instagram](https://www.instagram.com/vikrant_7017)
+
+ 
+6. [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) Gmail](mailto:vikrantkhatana15@gmail.com)
+   
 
 
 Made with ☕ and ❤️ by Vikrant Khatana
