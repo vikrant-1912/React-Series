@@ -1,12 +1,75 @@
-# React + Vite
+# ☕ Coffee Card Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and reusable React component showcasing a coffee card, built with **React** and styled using **Tailwind CSS**. Demonstrates the power of props for dynamic content!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+*(will be added soon )*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- React.js — Functional components & props  
+- Tailwind CSS — Utility-first styling  
+- JavaScript ES6 — Modern syntax and defaults
+
+---
+
+## 📋 Component Overview
+
+- **Card** component accepts:  
+  - `username` (string): Name of the user or coffee lover  
+  - `coffeename` (string, optional): Name of the coffee (default: "Milk Latte")  
+- Displays a beautifully styled card with an image, username, coffee name, and a coffee-themed tagline.
+
+---
+
+## 🖼️ Screenshot
+
+![Coffee Card](https://images.pexels.com/photos/30751327/pexels-photo-30751327/free-photo-of-cozy-coffee-cups-on-a-wooden-tray-outdoors.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+---
+
+💡 What I Learned
+How to pass and use props in React functional components
+
+Setting default prop values in function parameters
+
+Styling components effectively with Tailwind CSS classes
+
+
+
+📃 License
+This project is licensed under the MIT License.
+
+
+
+
+Made with ☕ and ❤️ by Vikrant Khatana
+
+
+Git PermaLink :
+
+https://github.com/vikrant-1912/React-Series/tree/5c224cec7529b727fb9fe00aef7a83c2ab19fc18/04tailwindProps
+
+
+## ⚙️ Usage
+
+Import and use the `Card` component in your React app:
+
+
+```jsx
+import Card from './Card';
+
+function App() {
+  return (
+    <div>
+      <Card username="Vikrant" coffeename="Mocha Frappe" />
+      <Card username="Shilpy" />
+    </div>
+  );
+}
+
