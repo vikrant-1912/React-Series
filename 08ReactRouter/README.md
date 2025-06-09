@@ -16,7 +16,7 @@ A modern, single-page portfolio website built with **React** and **React Router*
 ---
 
 ## 🚀 Live Demo  
-Check it out here: [your-portfolio-url.vercel.app](https://your-portfolio-url.vercel.app) <!-- Replace with your deployed URL -->
+Check it out here: [your-portfolio-url.vercel.app](https://courageous-jelly-fd5710.netlify.app/)
 
 ---
 
